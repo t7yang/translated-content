@@ -3877,16 +3877,6 @@
       "Internauta1024A"
     ]
   },
-  "Web/API/Window/crypto": {
-    "modified": "2019-03-23T23:49:51.057Z",
-    "contributors": [
-      "teoli",
-      "khalid32",
-      "Mgjbot",
-      "Ptak82",
-      "Internauta1024A"
-    ]
-  },
   "Web/API/Window/defaultStatus": {
     "modified": "2019-03-23T23:49:46.875Z",
     "contributors": [
@@ -4172,6 +4162,16 @@
       "teoli",
       "khalid32",
       "qfel13"
+    ]
+  },
+  "Web/API/crypto_property": {
+    "modified": "2019-03-23T23:49:51.057Z",
+    "contributors": [
+      "teoli",
+      "khalid32",
+      "Mgjbot",
+      "Ptak82",
+      "Internauta1024A"
     ]
   },
   "Web/API/setInterval": {

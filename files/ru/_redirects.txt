@@ -502,6 +502,7 @@
 /ru/docs/Web/API/WebRTC_API/протоколы	/ru/docs/Web/API/WebRTC_API/Protocols
 /ru/docs/Web/API/WebRTC_API/связь	/ru/docs/Web/API/WebRTC_API/Connectivity
 /ru/docs/Web/API/Web_Crypto_API/Checking_authenticity_with_password	/ru/docs/orphaned/Web/API/Web_Crypto_API/Checking_authenticity_with_password
+/ru/docs/Web/API/Window/crypto	/ru/docs/Web/API/crypto_property
 /ru/docs/Web/API/Window/mozAnimationStartTime	/ru/docs/Web/API/Animation/startTime
 /ru/docs/Web/API/Window/performance	/ru/docs/Web/API/performance_property
 /ru/docs/Web/API/WindowBase64	/ru/docs/conflicting/Web/API/WindowOrWorkerGlobalScope

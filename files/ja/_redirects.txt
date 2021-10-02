@@ -1637,7 +1637,7 @@
 /ja/docs/DOM/window.confirm-redirect-1	/ja/docs/Web/API/Window/confirm
 /ja/docs/DOM/window.content	/ja/docs/Web/API/Window/content
 /ja/docs/DOM/window.controllers	/ja/docs/Web/API/Window/controllers
-/ja/docs/DOM/window.crypto	/ja/docs/Web/API/Window/crypto
+/ja/docs/DOM/window.crypto	/ja/docs/Web/API/crypto_property
 /ja/docs/DOM/window.defaultStatus	/ja/docs/Web/API/Window/defaultStatus
 /ja/docs/DOM/window.directories	/ja/docs/Web/API/Window/directories
 /ja/docs/DOM/window.document	/ja/docs/Web/API/Window/document
@@ -1872,7 +1872,7 @@
 /ja/docs/DOM:window.confirm	/ja/docs/Web/API/Window/confirm
 /ja/docs/DOM:window.content	/ja/docs/Web/API/Window/content
 /ja/docs/DOM:window.controllers	/ja/docs/Web/API/Window/controllers
-/ja/docs/DOM:window.crypto	/ja/docs/Web/API/Window/crypto
+/ja/docs/DOM:window.crypto	/ja/docs/Web/API/crypto_property
 /ja/docs/DOM:window.defaultStatus	/ja/docs/Web/API/Window/defaultStatus
 /ja/docs/DOM:window.directories	/ja/docs/Web/API/Window/directories
 /ja/docs/DOM:window.document	/ja/docs/Web/API/Window/document
@@ -4046,6 +4046,7 @@
 /ja/docs/Web/API/Window.onafterprint	/ja/docs/Web/API/WindowEventHandlers/onafterprint
 /ja/docs/Web/API/Window/URL	/ja/docs/conflicting/Web/API/URL
 /ja/docs/Web/API/Window/arguments	/ja/docs/orphaned/Working_with_windows_in_chrome_code
+/ja/docs/Web/API/Window/crypto	/ja/docs/Web/API/crypto_property
 /ja/docs/Web/API/Window/dispatchEvent	/ja/docs/Web/API/EventTarget/dispatchEvent
 /ja/docs/Web/API/Window/escape	/ja/docs/conflicting/Web/JavaScript/Reference/Global_Objects/escape
 /ja/docs/Web/API/Window/getAttention	/ja/docs/orphaned/Web/API/Window/getAttention
@@ -4222,7 +4223,7 @@
 /ja/docs/Web/API/window.confirm	/ja/docs/Web/API/Window/confirm
 /ja/docs/Web/API/window.content	/ja/docs/Web/API/Window/content
 /ja/docs/Web/API/window.controllers	/ja/docs/Web/API/Window/controllers
-/ja/docs/Web/API/window.crypto	/ja/docs/Web/API/Window/crypto
+/ja/docs/Web/API/window.crypto	/ja/docs/Web/API/crypto_property
 /ja/docs/Web/API/window.defaultStatus	/ja/docs/Web/API/Window/defaultStatus
 /ja/docs/Web/API/window.dialogArguments	/ja/docs/Web/API/Window/dialogArguments
 /ja/docs/Web/API/window.directories	/ja/docs/Web/API/Window/directories
