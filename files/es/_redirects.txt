@@ -1858,6 +1858,7 @@
 /es/docs/Web/API/ParentNode/firstElementChild	/es/docs/orphaned/Web/API/ParentNode/firstElementChild
 /es/docs/Web/API/ParentNode/lastElementChild	/es/docs/orphaned/Web/API/ParentNode/lastElementChild
 /es/docs/Web/API/Position	/es/docs/Web/API/GeolocationPosition
+/es/docs/Web/API/PositionOptions	/es/docs/conflicting/Web/API/Geolocation/getCurrentPosition
 /es/docs/Web/API/Push_API/Using_the_Push_API	/es/docs/conflicting/Web/API/Push_API
 /es/docs/Web/API/RandomSource	/es/docs/conflicting/Web/API/Crypto/getRandomValues
 /es/docs/Web/API/RandomSource/Obtenervaloresaleatorios	/es/docs/Web/API/Crypto/getRandomValues
