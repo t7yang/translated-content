@@ -149,7 +149,7 @@
 /zh-CN/docs/CSS/开始/Text_styles	/zh-CN/docs/conflicting/Learn/CSS/Styling_text/Fundamentals_5a3f2ce7cc4f23ec431e57a447af0711
 /zh-CN/docs/CSS/开始/What_is_CSS	/zh-CN/docs/conflicting/Learn/CSS/First_steps/How_CSS_works_b66915031fb62b5fee1201086144e209
 /zh-CN/docs/CSS/开始/为何使用CSS	/zh-CN/docs/conflicting/Learn/CSS/First_steps/How_CSS_works_64ba4331a7a5f4319c6e06b06ccdd521
-/zh-CN/docs/CSS/开始/媒体	/zh-CN/docs/Web/Progressive_web_apps/Responsive/Media_types
+/zh-CN/docs/CSS/开始/媒体	/zh-CN/docs/conflicting/Web/CSS/Media_Queries/Using_media_queries
 /zh-CN/docs/CSS/开始/布局	/zh-CN/docs/conflicting/Learn/CSS/CSS_layout
 /zh-CN/docs/CSS:Getting_Started:Boxes	/zh-CN/docs/conflicting/Learn/CSS/Building_blocks
 /zh-CN/docs/CSS:Getting_Started:Cascading_and_inheritance	/zh-CN/docs/conflicting/Learn/CSS/Building_blocks/Cascade_and_inheritance
@@ -1521,6 +1521,8 @@
 /zh-CN/docs/Web/API/DocumentTouch	/zh-CN/docs/orphaned/Web/API/DocumentTouch
 /zh-CN/docs/Web/API/Document_Object_Model/Events	/zh-CN/docs/orphaned/Web/API/Document_Object_Model/Events
 /zh-CN/docs/Web/API/Document_Object_Model/Preface	/zh-CN/docs/conflicting/Web/API/Document_Object_Model
+/zh-CN/docs/Web/API/EffectTiming	/zh-CN/docs/conflicting/Web/API/KeyframeEffect/KeyframeEffect
+/zh-CN/docs/Web/API/EffectTiming/easing	/zh-CN/docs/Web/API/KeyframeEffect/KeyframeEffect
 /zh-CN/docs/Web/API/Element.classList	/zh-CN/docs/Web/API/Element/classList
 /zh-CN/docs/Web/API/Element.className	/zh-CN/docs/Web/API/Element/className
 /zh-CN/docs/Web/API/Element.clientLeft	/zh-CN/docs/Web/API/Element/clientLeft
@@ -1813,6 +1815,7 @@
 /zh-CN/docs/Web/API/PositionOptions	/zh-CN/docs/conflicting/Web/API/Geolocation/getCurrentPosition
 /zh-CN/docs/Web/API/PositionOptions/timeout	/zh-CN/docs/conflicting/Web/API/Geolocation/getCurrentPosition_058087067b28ad25fff974fd59827fb6
 /zh-CN/docs/Web/API/Push_API/Using_the_Push_API	/zh-CN/docs/conflicting/Web/API/Push_API
+/zh-CN/docs/Web/API/RTCConfiguration	/zh-CN/docs/conflicting/Web/API/RTCPeerConnection/RTCPeerConnection
 /zh-CN/docs/Web/API/RTCPeerConnection/getDefaultIceServers	/zh-CN/docs/orphaned/Web/API/RTCPeerConnection/getDefaultIceServers
 /zh-CN/docs/Web/API/RandomSource	/zh-CN/docs/conflicting/Web/API/Crypto/getRandomValues
 /zh-CN/docs/Web/API/RandomSource/getRandomValues	/zh-CN/docs/Web/API/Crypto/getRandomValues
@@ -2229,7 +2232,7 @@
 /zh-CN/docs/Web/CSS/开始/Text_styles	/zh-CN/docs/conflicting/Learn/CSS/Styling_text/Fundamentals_5a3f2ce7cc4f23ec431e57a447af0711
 /zh-CN/docs/Web/CSS/开始/What_is_CSS	/zh-CN/docs/conflicting/Learn/CSS/First_steps/How_CSS_works_b66915031fb62b5fee1201086144e209
 /zh-CN/docs/Web/CSS/开始/为何使用CSS	/zh-CN/docs/conflicting/Learn/CSS/First_steps/How_CSS_works_64ba4331a7a5f4319c6e06b06ccdd521
-/zh-CN/docs/Web/CSS/开始/媒体	/zh-CN/docs/Web/Progressive_web_apps/Responsive/Media_types
+/zh-CN/docs/Web/CSS/开始/媒体	/zh-CN/docs/conflicting/Web/CSS/Media_Queries/Using_media_queries
 /zh-CN/docs/Web/CSS/开始/布局	/zh-CN/docs/conflicting/Learn/CSS/CSS_layout
 /zh-CN/docs/Web/CSS/整型	/zh-CN/docs/Web/CSS/integer
 /zh-CN/docs/Web/CSS/文本修饰	/zh-CN/docs/Web/CSS/text-decoration
@@ -2345,7 +2348,7 @@
 /zh-CN/docs/Web/Guide/CSS/Getting_started/JavaScript	/zh-CN/docs/conflicting/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents
 /zh-CN/docs/Web/Guide/CSS/Getting_started/Layout	/zh-CN/docs/conflicting/Learn/CSS/CSS_layout
 /zh-CN/docs/Web/Guide/CSS/Getting_started/Lists	/zh-CN/docs/conflicting/Learn/CSS/Styling_text/Styling_lists
-/zh-CN/docs/Web/Guide/CSS/Getting_started/Media	/zh-CN/docs/Web/Progressive_web_apps/Responsive/Media_types
+/zh-CN/docs/Web/Guide/CSS/Getting_started/Media	/zh-CN/docs/conflicting/Web/CSS/Media_Queries/Using_media_queries
 /zh-CN/docs/Web/Guide/CSS/Getting_started/Readable_CSS	/zh-CN/docs/conflicting/Learn/CSS/First_steps/How_CSS_is_structured
 /zh-CN/docs/Web/Guide/CSS/Getting_started/SVG_and_CSS	/zh-CN/docs/Web/SVG/Tutorial/SVG_and_CSS
 /zh-CN/docs/Web/Guide/CSS/Getting_started/Selectors	/zh-CN/docs/conflicting/Learn/CSS/Building_blocks/Selectors
@@ -2355,7 +2358,7 @@
 /zh-CN/docs/Web/Guide/CSS/Getting_started/Why_use_CSS	/zh-CN/docs/conflicting/Learn/CSS/First_steps/How_CSS_works_64ba4331a7a5f4319c6e06b06ccdd521
 /zh-CN/docs/Web/Guide/CSS/Getting_started/XML数据	/zh-CN/docs/Web/Guide/CSS/Getting_started/XML_data
 /zh-CN/docs/Web/Guide/CSS/Getting_started/为何使用CSS	/zh-CN/docs/conflicting/Learn/CSS/First_steps/How_CSS_works_64ba4331a7a5f4319c6e06b06ccdd521
-/zh-CN/docs/Web/Guide/CSS/Getting_started/媒体	/zh-CN/docs/Web/Progressive_web_apps/Responsive/Media_types
+/zh-CN/docs/Web/Guide/CSS/Getting_started/媒体	/zh-CN/docs/conflicting/Web/CSS/Media_Queries/Using_media_queries
 /zh-CN/docs/Web/Guide/CSS/Getting_started/布局	/zh-CN/docs/conflicting/Learn/CSS/CSS_layout
 /zh-CN/docs/Web/Guide/CSS/Media_queries	/zh-CN/docs/Web/CSS/Media_Queries/Using_media_queries
 /zh-CN/docs/Web/Guide/CSS/Scaling_background_images	/zh-CN/docs/conflicting/Web/CSS/CSS_Backgrounds_and_Borders/Resizing_background_images
@@ -3552,6 +3555,7 @@
 /zh-CN/docs/Web/Progressive_web_apps/Network_independent	/zh-CN/docs/conflicting/Web/Progressive_web_apps_8afa7a63de0cecd1c19c3fdecf62f89f
 /zh-CN/docs/Web/Progressive_web_apps/Re-engageable	/zh-CN/docs/conflicting/Web/Progressive_web_apps_cb2823fe6cfc1ddee5db1f6a5d240c67
 /zh-CN/docs/Web/Progressive_web_apps/Responsive	/zh-CN/docs/conflicting/Web/Progressive_web_apps/Responsive/responsive_design_building_blocks
+/zh-CN/docs/Web/Progressive_web_apps/Responsive/Media_types	/zh-CN/docs/conflicting/Web/CSS/Media_Queries/Using_media_queries
 /zh-CN/docs/Web/Progressive_web_apps/优势	/zh-CN/docs/conflicting/Web/Progressive_web_apps/Introduction
 /zh-CN/docs/Web/Progressive_web_apps/加载	/zh-CN/docs/Web/Progressive_web_apps/Loading
 /zh-CN/docs/Web/Progressive_web_apps/添加到主屏幕	/zh-CN/docs/Web/Progressive_web_apps/Add_to_home_screen

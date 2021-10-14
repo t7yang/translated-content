@@ -1994,7 +1994,7 @@
 /es/docs/Web/CSS/Introducción/How_CSS_works	/es/docs/conflicting/Learn/CSS/First_steps/How_CSS_works_194e34e451d4ace023d98021c00b3cfd
 /es/docs/Web/CSS/Introducción/Layout	/es/docs/conflicting/Learn/CSS/CSS_layout
 /es/docs/Web/CSS/Introducción/Los:estilos_de_texto	/es/docs/conflicting/Learn/CSS/Styling_text/Fundamentals
-/es/docs/Web/CSS/Introducción/Media	/es/docs/Web/Progressive_web_apps/Responsive/Media_types
+/es/docs/Web/CSS/Introducción/Media	/es/docs/conflicting/Web/CSS/Media_Queries/Using_media_queries
 /es/docs/Web/CSS/Introducción/Selectors	/es/docs/conflicting/Learn/CSS/Building_blocks/Selectors
 /es/docs/Web/CSS/Preguntas_frecuentes_sobre_CSS	/es/docs/Learn/CSS/Howto/CSS_FAQ
 /es/docs/Web/CSS/Primeros_pasos	/es/docs/orphaned/Web/CSS/Primeros_pasos
@@ -3384,6 +3384,7 @@
 /es/docs/Web/Performance/mejorando_rendimienot_inicial	/es/docs/Web/Performance/Optimizing_startup_performance
 /es/docs/Web/Progressive_web_apps/Developer_guide/Instalar	/es/docs/Web/Progressive_web_apps/Installing
 /es/docs/Web/Progressive_web_apps/Developer_guide/Installing	/es/docs/Web/Progressive_web_apps/Installing
+/es/docs/Web/Progressive_web_apps/Responsive/Media_types	/es/docs/conflicting/Web/CSS/Media_Queries/Using_media_queries
 /es/docs/Web/Progressive_web_apps/Ventajas	/es/docs/conflicting/Web/Progressive_web_apps/Introduction
 /es/docs/Web/Reference	/es/docs/orphaned/Web/Reference
 /es/docs/Web/Reference/API	/es/docs/orphaned/Web/Reference/API

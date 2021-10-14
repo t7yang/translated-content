@@ -35,7 +35,7 @@
 /ko/docs/CSS/Getting_Started/JavaScript	/ko/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents
 /ko/docs/CSS/Getting_Started/Layout	/ko/docs/conflicting/Learn/CSS/CSS_layout
 /ko/docs/CSS/Getting_Started/Lists	/ko/docs/conflicting/Learn/CSS/Styling_text/Styling_lists
-/ko/docs/CSS/Getting_Started/Media	/ko/docs/Web/Progressive_web_apps/Responsive/Media_types
+/ko/docs/CSS/Getting_Started/Media	/ko/docs/conflicting/Web/CSS/Media_Queries/Using_media_queries
 /ko/docs/CSS/Getting_Started/SVG_graphics	/ko/docs/Web/SVG/Tutorial/SVG_and_CSS
 /ko/docs/CSS/Getting_Started/Selectors	/en-US/docs/Learn/CSS/Building_blocks/Selectors
 /ko/docs/CSS/Getting_Started/Tables	/ko/docs/conflicting/Learn/CSS/Building_blocks/Styling_tables
@@ -79,7 +79,7 @@
 /ko/docs/CSS/시작하기/CSS란	/en-US/docs/Learn/CSS/First_steps/How_CSS_works
 /ko/docs/CSS/시작하기/내용물	/ko/docs/Learn/CSS/Howto/Generated_content
 /ko/docs/CSS/시작하기/리스트	/ko/docs/conflicting/Learn/CSS/Styling_text/Styling_lists
-/ko/docs/CSS/시작하기/미디어	/ko/docs/Web/Progressive_web_apps/Responsive/Media_types
+/ko/docs/CSS/시작하기/미디어	/ko/docs/conflicting/Web/CSS/Media_Queries/Using_media_queries
 /ko/docs/CSS/시작하기/배치	/ko/docs/conflicting/Learn/CSS/CSS_layout
 /ko/docs/CSS/시작하기/상자	/ko/docs/conflicting/Learn/CSS/Building_blocks
 /ko/docs/CSS/시작하기/색상	/en-US/docs/Learn/CSS/Building_blocks/Values_and_units
@@ -98,7 +98,7 @@
 /ko/docs/CSS:Getting_Started:JavaScript	/ko/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents
 /ko/docs/CSS:Getting_Started:Layout	/ko/docs/conflicting/Learn/CSS/CSS_layout
 /ko/docs/CSS:Getting_Started:Lists	/ko/docs/conflicting/Learn/CSS/Styling_text/Styling_lists
-/ko/docs/CSS:Getting_Started:Media	/ko/docs/Web/Progressive_web_apps/Responsive/Media_types
+/ko/docs/CSS:Getting_Started:Media	/ko/docs/conflicting/Web/CSS/Media_Queries/Using_media_queries
 /ko/docs/CSS:Getting_Started:SVG_graphics	/ko/docs/Web/SVG/Tutorial/SVG_and_CSS
 /ko/docs/CSS:Getting_Started:Selectors	/en-US/docs/Learn/CSS/Building_blocks/Selectors
 /ko/docs/CSS:Getting_Started:Tables	/ko/docs/conflicting/Learn/CSS/Building_blocks/Styling_tables
@@ -657,6 +657,7 @@
 /ko/docs/Web/API/ParentNode/prepend	/ko/docs/orphaned/Web/API/ParentNode/prepend
 /ko/docs/Web/API/Position	/ko/docs/Web/API/GeolocationPosition
 /ko/docs/Web/API/PositionOptions	/ko/docs/conflicting/Web/API/Geolocation/getCurrentPosition
+/ko/docs/Web/API/RTCConfiguration	/ko/docs/conflicting/Web/API/RTCPeerConnection/RTCPeerConnection
 /ko/docs/Web/API/RTCPeerConnection/onidentityresult	/ko/docs/orphaned/Web/API/RTCPeerConnection/onidentityresult
 /ko/docs/Web/API/RandomSource	/ko/docs/Web/API/Crypto/getRandomValues
 /ko/docs/Web/API/RandomSource/getRandomValues	/ko/docs/Web/API/Crypto/getRandomValues
@@ -729,7 +730,7 @@
 /ko/docs/Web/CSS/Getting_Started/JavaScript	/ko/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents
 /ko/docs/Web/CSS/Getting_Started/Layout	/ko/docs/conflicting/Learn/CSS/CSS_layout
 /ko/docs/Web/CSS/Getting_Started/Lists	/ko/docs/conflicting/Learn/CSS/Styling_text/Styling_lists
-/ko/docs/Web/CSS/Getting_Started/Media	/ko/docs/Web/Progressive_web_apps/Responsive/Media_types
+/ko/docs/Web/CSS/Getting_Started/Media	/ko/docs/conflicting/Web/CSS/Media_Queries/Using_media_queries
 /ko/docs/Web/CSS/Getting_Started/SVG_graphics	/ko/docs/Web/SVG/Tutorial/SVG_and_CSS
 /ko/docs/Web/CSS/Getting_Started/Selectors	/en-US/docs/Learn/CSS/Building_blocks/Selectors
 /ko/docs/Web/CSS/Getting_Started/Tables	/ko/docs/conflicting/Learn/CSS/Building_blocks/Styling_tables
@@ -768,7 +769,7 @@
 /ko/docs/Web/CSS/시작하기/CSS란	/en-US/docs/Learn/CSS/First_steps/How_CSS_works
 /ko/docs/Web/CSS/시작하기/내용물	/ko/docs/Learn/CSS/Howto/Generated_content
 /ko/docs/Web/CSS/시작하기/리스트	/ko/docs/conflicting/Learn/CSS/Styling_text/Styling_lists
-/ko/docs/Web/CSS/시작하기/미디어	/ko/docs/Web/Progressive_web_apps/Responsive/Media_types
+/ko/docs/Web/CSS/시작하기/미디어	/ko/docs/conflicting/Web/CSS/Media_Queries/Using_media_queries
 /ko/docs/Web/CSS/시작하기/배치	/ko/docs/conflicting/Learn/CSS/CSS_layout
 /ko/docs/Web/CSS/시작하기/상자	/ko/docs/conflicting/Learn/CSS/Building_blocks
 /ko/docs/Web/CSS/시작하기/색상	/en-US/docs/Learn/CSS/Building_blocks/Values_and_units
@@ -1468,6 +1469,7 @@
 /ko/docs/Web/Media/Formats/코덱파라미터	/ko/docs/Web/Media/Formats/codecs_parameter
 /ko/docs/Web/Performance/브라우저는_어떻게_동작하는가	/ko/docs/Web/Performance/How_browsers_work
 /ko/docs/Web/Performance/중요_렌더링_경로	/ko/docs/Web/Performance/Critical_rendering_path
+/ko/docs/Web/Progressive_web_apps/Responsive/Media_types	/ko/docs/conflicting/Web/CSS/Media_Queries/Using_media_queries
 /ko/docs/Web/Progressive_web_apps/소개	/ko/docs/Web/Progressive_web_apps/Introduction
 /ko/docs/Web/Reference	/ko/docs/orphaned/Web/Reference
 /ko/docs/Web/Reference/API	/ko/docs/orphaned/Web/Reference/API

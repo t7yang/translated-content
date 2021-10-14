@@ -84,7 +84,7 @@
 /pl/docs/CSS/Na_początek/Kaskadowość_i_dziedziczenie	/pl/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance
 /pl/docs/CSS/Na_początek/Kolor	/pl/docs/Learn/CSS/Building_blocks/Values_and_units
 /pl/docs/CSS/Na_początek/Listy	/pl/docs/Learn/CSS/Styling_text/Styling_lists
-/pl/docs/CSS/Na_początek/Media	/pl/docs/Web/Progressive_web_apps/Responsive/Media_types
+/pl/docs/CSS/Na_początek/Media	/pl/docs/conflicting/Web/CSS/Media_Queries/Using_media_queries
 /pl/docs/CSS/Na_początek/Po_co_używać_CSS	/pl/docs/conflicting/Learn/CSS/First_steps/How_CSS_works_21be2ff13a08a8866d772c3a5e975193
 /pl/docs/CSS/Na_początek/Selektory	/pl/docs/Learn/CSS/Building_blocks/Selectors
 /pl/docs/CSS/Na_początek/Style_tekstowe	/pl/docs/Learn/CSS/Styling_text/Fundamentals
@@ -222,7 +222,7 @@
 /pl/docs/CSS:Na_początek:Kaskadowość_i_dziedziczenie	/pl/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance
 /pl/docs/CSS:Na_początek:Kolor	/pl/docs/Learn/CSS/Building_blocks/Values_and_units
 /pl/docs/CSS:Na_początek:Listy	/pl/docs/Learn/CSS/Styling_text/Styling_lists
-/pl/docs/CSS:Na_początek:Media	/pl/docs/Web/Progressive_web_apps/Responsive/Media_types
+/pl/docs/CSS:Na_początek:Media	/pl/docs/conflicting/Web/CSS/Media_Queries/Using_media_queries
 /pl/docs/CSS:Na_początek:Po_co_używać_CSS	/pl/docs/conflicting/Learn/CSS/First_steps/How_CSS_works_21be2ff13a08a8866d772c3a5e975193
 /pl/docs/CSS:Na_początek:Selektory	/pl/docs/Learn/CSS/Building_blocks/Selectors
 /pl/docs/CSS:Na_początek:Style_tekstowe	/pl/docs/Learn/CSS/Styling_text/Fundamentals
@@ -2111,7 +2111,7 @@
 /pl/docs/Web/CSS/Na_początek/Kaskadowość_i_dziedziczenie	/pl/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance
 /pl/docs/Web/CSS/Na_początek/Kolor	/pl/docs/Learn/CSS/Building_blocks/Values_and_units
 /pl/docs/Web/CSS/Na_początek/Listy	/pl/docs/Learn/CSS/Styling_text/Styling_lists
-/pl/docs/Web/CSS/Na_początek/Media	/pl/docs/Web/Progressive_web_apps/Responsive/Media_types
+/pl/docs/Web/CSS/Na_początek/Media	/pl/docs/conflicting/Web/CSS/Media_Queries/Using_media_queries
 /pl/docs/Web/CSS/Na_początek/Po_co_używać_CSS	/pl/docs/conflicting/Learn/CSS/First_steps/How_CSS_works_21be2ff13a08a8866d772c3a5e975193
 /pl/docs/Web/CSS/Na_początek/Selektory	/pl/docs/Learn/CSS/Building_blocks/Selectors
 /pl/docs/Web/CSS/Na_początek/Style_tekstowe	/pl/docs/Learn/CSS/Styling_text/Fundamentals
@@ -3238,6 +3238,7 @@
 /pl/docs/Web/JavaScript/Zasoby_języka_JavaScript	/pl/docs/orphaned/Web/JavaScript/Language_Resources
 /pl/docs/Web/JavaScript/dziedziczenie_lancuch_prototypow	/pl/docs/orphaned/Web/JavaScript/Inheritance_and_the_prototype_chain
 /pl/docs/Web/JavaScript/typy_oraz_struktury_danych	/pl/docs/orphaned/Web/JavaScript/Data_structures
+/pl/docs/Web/Progressive_web_apps/Responsive/Media_types	/pl/docs/conflicting/Web/CSS/Media_Queries/Using_media_queries
 /pl/docs/Web/SVG/Element/okrąg	/pl/docs/Web/SVG/Element/circle
 /pl/docs/Web/SVG/Inne_zasoby	/pl/docs/Web/SVG/Other_Resources
 /pl/docs/Web/SVG/Przewodnik	/pl/docs/Web/SVG/Tutorial
