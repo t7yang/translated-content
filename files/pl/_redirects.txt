@@ -1642,7 +1642,7 @@
 /pl/docs/Learn/JavaScript/Pierwsze_kroki/What_is_JavaScript	/pl/docs/Learn/JavaScript/First_steps/What_is_JavaScript
 /pl/docs/Learn/JavaScript/Pierwsze_kroki/Zmienne	/pl/docs/Learn/JavaScript/First_steps/Variables
 /pl/docs/Learn/Server-side/Express_Nodejs/Szkolenie_aplikacja_biblioteka	/pl/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website
-/pl/docs/Liczniki_CSS	/pl/docs/Web/CSS/CSS_Lists_and_Counters/Using_CSS_counters
+/pl/docs/Liczniki_CSS	/pl/docs/Web/CSS/CSS_Counter_Styles/Using_CSS_counters
 /pl/docs/Lista_komponentów_XPCOM	/pl/docs/orphaned/Lista_komponentów_XPCOM
 /pl/docs/Lokalizacja	/pl/docs/Glossary/Localization
 /pl/docs/Lokalizacja_opisu_rozszerzeń	/pl/docs/Lokalizacja_opisu_rozszerzenia
@@ -2094,6 +2094,7 @@
 /pl/docs/Web/CSS/CSS_Colors	/pl/docs/Web/CSS/CSS_Color
 /pl/docs/Web/CSS/CSS_Colors/Narzedzie_doboru_kolorow	/pl/docs/Web/CSS/CSS_Colors/Color_picker_tool
 /pl/docs/Web/CSS/CSS_Grid_Layout/Realizacja_typowych_ukladow_za_pomoca_ukladu_siatki_CSS	/pl/docs/Web/CSS/CSS_Grid_Layout/Realizing_common_layouts_using_CSS_Grid_Layout
+/pl/docs/Web/CSS/CSS_Lists_and_Counters/Using_CSS_counters	/pl/docs/Web/CSS/CSS_Counter_Styles/Using_CSS_counters
 /pl/docs/Web/CSS/CSS_Reference	/pl/docs/Web/CSS/Reference
 /pl/docs/Web/CSS/CSS_Reference/Rozszerzenia_Mozilli	/pl/docs/Web/CSS/Mozilla_Extensions
 /pl/docs/Web/CSS/CSS_Selectors/Użycie_pseudoklasy_:target_w_selektorach	/pl/docs/Web/CSS/CSS_Selectors/Using_the_:target_pseudo-class_in_selectors
@@ -2140,7 +2141,7 @@
 /pl/docs/Web/Guide/HTML	/pl/docs/Learn/HTML
 /pl/docs/Web/Guide/HTML/HTML5	/pl/docs/orphaned/Web/Guide/HTML/HTML5
 /pl/docs/Web/Guide/HTML/Wprowadzenie	/pl/docs/Learn/HTML/Introduction_to_HTML
-/pl/docs/Web/Guide/Liczniki_CSS	/pl/docs/Web/CSS/CSS_Lists_and_Counters/Using_CSS_counters
+/pl/docs/Web/Guide/Liczniki_CSS	/pl/docs/Web/CSS/CSS_Counter_Styles/Using_CSS_counters
 /pl/docs/Web/HTML(PL)	/pl/docs/conflicting/Web/HTML
 /pl/docs/Web/HTML(PL)/Tryb_Zgodnosci_oraz_Tryb_Standardow	/pl/docs/Web/HTML/Quirks_Mode_and_Standards_Mode
 /pl/docs/Web/HTML/Canvas	/pl/docs/Web/API/Canvas_API
