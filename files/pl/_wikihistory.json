@@ -4453,16 +4453,6 @@
       "n.lobodzinski"
     ]
   },
-  "Web/CSS/CSS_Basic_User_Interface/Using_URL_values_for_the_cursor_property": {
-    "modified": "2019-03-23T23:44:57.406Z",
-    "contributors": [
-      "teoli",
-      "Mgjbot",
-      "Ptak82",
-      "gandalf",
-      "Dria"
-    ]
-  },
   "Web/CSS/CSS_Color": {
     "modified": "2019-03-23T22:10:25.437Z",
     "contributors": [
@@ -7310,6 +7300,16 @@
       "Ptak82",
       "Anonymous",
       "Witia"
+    ]
+  },
+  "conflicting/Web/CSS/cursor": {
+    "modified": "2019-03-23T23:44:57.406Z",
+    "contributors": [
+      "teoli",
+      "Mgjbot",
+      "Ptak82",
+      "gandalf",
+      "Dria"
     ]
   },
   "conflicting/Web/Guide": {
