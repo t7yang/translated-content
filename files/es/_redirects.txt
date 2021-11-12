@@ -1359,9 +1359,9 @@
 /es/docs/MDN/Comunidad	/es/docs/orphaned/MDN/Community
 /es/docs/MDN/Contribute/Community	/es/docs/orphaned/MDN/Community/Working_in_community
 /es/docs/MDN/Contribute/Content	/es/docs/MDN/Guidelines
-/es/docs/MDN/Contribute/Content/Content_blocks	/es/docs/MDN/Guidelines/CSS_style_guide
+/es/docs/MDN/Contribute/Content/Content_blocks	/es/docs/MDN/Contribute/Markdown_in_MDN
 /es/docs/MDN/Contribute/Guidelines	/es/docs/MDN/Guidelines
-/es/docs/MDN/Contribute/Guidelines/Content_blocks	/es/docs/MDN/Guidelines/CSS_style_guide
+/es/docs/MDN/Contribute/Guidelines/Content_blocks	/es/docs/MDN/Contribute/Markdown_in_MDN
 /es/docs/MDN/Contribute/Guidelines/Convenciones_y_definiciones	/es/docs/MDN/Guidelines/Conventions_definitions
 /es/docs/MDN/Contribute/Guidelines/Project:Guía_de_estilo	/es/docs/MDN/Guidelines/Writing_style_guide
 /es/docs/MDN/Contribute/Herramientas	/es/docs/MDN/Tools
@@ -1385,7 +1385,8 @@
 /es/docs/MDN/Contribute/Structures/Tablas_de_compatibilidad	/es/docs/MDN/Structures/Compatibility_tables
 /es/docs/MDN/Contribute/Tareas	/es/docs/conflicting/MDN/Contribute/Getting_started
 /es/docs/MDN/Enviar_feedback_sobre_MDN	/es/docs/MDN/Contribute/Feedback
-/es/docs/MDN/Guidelines/Content_blocks	/es/docs/MDN/Guidelines/CSS_style_guide
+/es/docs/MDN/Guidelines/CSS_style_guide	/es/docs/MDN/Contribute/Markdown_in_MDN
+/es/docs/MDN/Guidelines/Content_blocks	/es/docs/MDN/Contribute/Markdown_in_MDN
 /es/docs/MDN/Guidelines/Convenciones_y_definiciones	/es/docs/MDN/Guidelines/Conventions_definitions
 /es/docs/MDN/Guidelines/Project:Guía_de_estilo	/es/docs/MDN/Guidelines/Writing_style_guide
 /es/docs/MDN/Kuma	/es/docs/MDN/Yari
