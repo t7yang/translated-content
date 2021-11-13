@@ -1842,6 +1842,7 @@
 /zh-CN/docs/Web/API/Selection.isCollapsed	/zh-CN/docs/Web/API/Selection/isCollapsed
 /zh-CN/docs/Web/API/Selection.removeRange	/zh-CN/docs/Web/API/Selection/removeRange
 /zh-CN/docs/Web/API/Selection/从Document中删除	/zh-CN/docs/Web/API/Selection/deleteFromDocument
+/zh-CN/docs/Web/API/ServiceWorkerGlobalScope/caches	/zh-CN/docs/conflicting/Web/API/caches
 /zh-CN/docs/Web/API/Slotable	/zh-CN/docs/conflicting/Web/API/Element
 /zh-CN/docs/Web/API/Storage/LocalStorage	/zh-CN/docs/conflicting/Web/API/Window/localStorage
 /zh-CN/docs/Web/API/StorageEstimate	/zh-CN/docs/conflicting/Web/API/StorageManager/estimate
