@@ -3253,7 +3253,7 @@
 /fr/docs/Mozilla/Firefox/Versions/Firefox_19_pour_les_developpeurs	/fr/docs/Mozilla/Firefox/Releases/19
 /fr/docs/Mozilla/Firefox/Versions/Firefox_20_pour_developeurs	/fr/docs/Mozilla/Firefox/Releases/20
 /fr/docs/Mozilla/Programme_Developpeur	/fr/docs/Mozilla/Rejoindre
-/fr/docs/NPAPI/Constantes	/fr/docs/Plugins/Guide/Constants
+/fr/docs/NPAPI/Constantes	/fr/docs/Glossary/Plugin
 /fr/docs/NavigatorUserMedia.getUserMedia	/fr/docs/Web/API/Navigator/getUserMedia
 /fr/docs/Nouveautés_dans_JavaScript_1.6	/fr/docs/Web/JavaScript/Nouveautés_et_historique_de_JavaScript/1.6
 /fr/docs/Nouveautés_dans_JavaScript_1.7	/fr/docs/Web/JavaScript/Nouveautés_et_historique_de_JavaScript/1.7
@@ -3452,6 +3452,7 @@
 /fr/docs/Places:Accès_aux_marque-pages	/fr/docs/Places/Accès_aux_marque-pages
 /fr/docs/Places:Conteneurs_personnalisés	/fr/docs/Places
 /fr/docs/Places:Système_de_requêtes	/fr/docs/Places/Système_de_requêtes
+/fr/docs/Plugins/Guide/Constants	/fr/docs/Glossary/Plugin
 /fr/docs/Précis_CSS_2	/fr/docs/Web/CSS
 /fr/docs/Précis_CSS_2/Tout_en_un	/fr/docs/Web/CSS/Reference
 /fr/docs/Précis_CSS_2:Tout_en_un	/fr/docs/Web/CSS/Reference

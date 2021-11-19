@@ -3402,8 +3402,8 @@
 /ja/docs/Mozilla_SVG_Status	/ja/docs/Web/SVG/SVG_1.1_Support_in_Firefox
 /ja/docs/Mozmill	/ja/docs/orphaned/Mozmill
 /ja/docs/My_Chrome_Oven	/ja/docs/orphaned/My_Chrome_Oven
-/ja/docs/NPAPI/Constants	/ja/docs/Plugins/Guide/Constants
-/ja/docs/NPAPI:Constants	/ja/docs/Plugins/Guide/Constants
+/ja/docs/NPAPI/Constants	/ja/docs/Glossary/Plugin
+/ja/docs/NPAPI:Constants	/ja/docs/Glossary/Plugin
 /ja/docs/Namespace	/ja/docs/Glossary/Namespace
 /ja/docs/New_in_JavaScript/1.7	/ja/docs/Web/JavaScript/New_in_JavaScript/1.7
 /ja/docs/New_in_JavaScript_1.5	/ja/docs/Web/JavaScript/New_in_JavaScript/1.5
@@ -3451,6 +3451,8 @@
 /ja/docs/Places:Query_System	/ja/docs/Querying_Places
 /ja/docs/Places:Tagging_Service	/ja/docs/Using_the_Places_tagging_service
 /ja/docs/Places:Views	/ja/docs/Displaying_Places_information_using_views
+/ja/docs/Plugins/Guide/Constants	/ja/docs/Glossary/Plugin
+/ja/docs/Plugins/Roadmap	/ja/docs/conflicting/Glossary/Plugin
 /ja/docs/Property_compatibility_table_for_form_widgets	/ja/docs/Learn/Forms/Property_compatibility_table_for_form_controls
 /ja/docs/Quirks_Mode_and_Standards_Mode	/ja/docs/Web/HTML/Quirks_Mode_and_Standards_Mode
 /ja/docs/Rhino_documentation-redirect-1	/ja/docs/Rhino_documentation
