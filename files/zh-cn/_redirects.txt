@@ -1890,6 +1890,10 @@
 /zh-CN/docs/Web/API/WebRTC_API/Architecture	/zh-CN/docs/conflicting/Web/API/WebRTC_API/Protocols
 /zh-CN/docs/Web/API/WebRTC_API/Overview	/zh-CN/docs/conflicting/Web/API/WebRTC_API
 /zh-CN/docs/Web/API/WebRTC_API/WebRTC_basics	/zh-CN/docs/conflicting/Web/API/WebRTC_API/Signaling_and_video_calling
+/zh-CN/docs/Web/API/WebSocket/onclose	/zh-CN/docs/Web/API/WebSocket/close_event
+/zh-CN/docs/Web/API/WebSocket/onerror	/zh-CN/docs/conflicting/Web/API/WebSocket/error_event
+/zh-CN/docs/Web/API/WebSocket/onmessage	/zh-CN/docs/conflicting/Web/API/WebSocket/message_event
+/zh-CN/docs/Web/API/WebSocket/onopen	/zh-CN/docs/Web/API/WebSocket/open_event
 /zh-CN/docs/Web/API/WebSocket/二进制类型	/zh-CN/docs/Web/API/WebSocket/binaryType
 /zh-CN/docs/Web/API/WebSockets_API/WebSocket_Server_Vb.NET	/zh-CN/docs/orphaned/Web/API/WebSockets_API/WebSocket_Server_Vb.NET
 /zh-CN/docs/Web/API/WebVR_API/WebVR_concepts	/zh-CN/docs/Web/API/WebVR_API/Concepts
