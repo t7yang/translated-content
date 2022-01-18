@@ -1499,7 +1499,7 @@
       "22tcp"
     ]
   },
-  "Learn/JavaScript/Objects/Inheritance": {
+  "Learn/JavaScript/Objects/Classes_in_JavaScript": {
     "modified": "2020-07-16T22:32:11.988Z",
     "contributors": [
       "MrFootwork"
@@ -1510,13 +1510,6 @@
     "contributors": [
       "MuellerRi",
       "DirkMassmann"
-    ]
-  },
-  "Learn/JavaScript/Objects/Object-oriented_JS": {
-    "modified": "2020-07-16T22:32:04.669Z",
-    "contributors": [
-      "Timbuktu1982",
-      "bluefor2"
     ]
   },
   "Learn/JavaScript/Objects/Object_prototypes": {
@@ -9856,6 +9849,13 @@
       "bricks",
       "fabiankreutz",
       "spiegelp"
+    ]
+  },
+  "conflicting/Learn/JavaScript/Objects/Classes_in_JavaScript": {
+    "modified": "2020-07-16T22:32:04.669Z",
+    "contributors": [
+      "Timbuktu1982",
+      "bluefor2"
     ]
   },
   "conflicting/MDN/Contribute": {
