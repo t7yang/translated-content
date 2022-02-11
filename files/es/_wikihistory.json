@@ -4928,6 +4928,12 @@
       "IngoBongo"
     ]
   },
+  "Web/API/Animation/cancel_event": {
+    "modified": "2019-03-23T22:05:09.237Z",
+    "contributors": [
+      "IngoBongo"
+    ]
+  },
   "Web/API/Animation/currentTime": {
     "modified": "2019-03-23T22:05:12.506Z",
     "contributors": [
@@ -4946,6 +4952,12 @@
       "IngoBongo"
     ]
   },
+  "Web/API/Animation/finish_event": {
+    "modified": "2019-03-23T22:05:11.188Z",
+    "contributors": [
+      "IngoBongo"
+    ]
+  },
   "Web/API/Animation/finished": {
     "modified": "2019-03-23T22:05:06.573Z",
     "contributors": [
@@ -4954,18 +4966,6 @@
   },
   "Web/API/Animation/id": {
     "modified": "2019-03-18T21:15:30.202Z",
-    "contributors": [
-      "IngoBongo"
-    ]
-  },
-  "Web/API/Animation/oncancel": {
-    "modified": "2019-03-23T22:05:09.237Z",
-    "contributors": [
-      "IngoBongo"
-    ]
-  },
-  "Web/API/Animation/onfinish": {
-    "modified": "2019-03-23T22:05:11.188Z",
     "contributors": [
       "IngoBongo"
     ]
@@ -9563,6 +9563,12 @@
       "todomagichere"
     ]
   },
+  "Web/API/XMLHttpRequest/load_event": {
+    "modified": "2020-10-15T22:26:03.172Z",
+    "contributors": [
+      "Akafadam"
+    ]
+  },
   "Web/API/XMLHttpRequest/loadend_event": {
     "modified": "2019-03-23T22:09:49.071Z",
     "contributors": [
@@ -9571,7 +9577,7 @@
       "darioperez"
     ]
   },
-  "Web/API/XMLHttpRequest/onreadystatechange": {
+  "Web/API/XMLHttpRequest/readystatechange_event": {
     "modified": "2019-03-23T22:20:14.868Z",
     "contributors": [
       "Sheppy",
@@ -9592,12 +9598,6 @@
   },
   "Web/API/XMLHttpRequestEventTarget": {
     "modified": "2020-10-15T22:26:08.879Z"
-  },
-  "Web/API/XMLHttpRequestEventTarget/onload": {
-    "modified": "2020-10-15T22:26:03.172Z",
-    "contributors": [
-      "Akafadam"
-    ]
   },
   "Web/API/atob": {
     "modified": "2019-03-23T23:03:12.715Z",
