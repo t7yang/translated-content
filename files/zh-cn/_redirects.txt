@@ -1472,6 +1472,8 @@
 /zh-CN/docs/Web/API/Body/formData	/zh-CN/docs/orphaned/Web/API/Body/formData
 /zh-CN/docs/Web/API/Body/json	/zh-CN/docs/orphaned/Web/API/Body/json
 /zh-CN/docs/Web/API/Body/text	/zh-CN/docs/orphaned/Web/API/Body/text
+/zh-CN/docs/Web/API/BroadcastChannel/onmessage	/zh-CN/docs/conflicting/Web/API/BroadcastChannel/message_event
+/zh-CN/docs/Web/API/BroadcastChannel/onmessageerror	/zh-CN/docs/conflicting/Web/API/BroadcastChannel/messageerror_event
 /zh-CN/docs/Web/API/ByteString	/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/String
 /zh-CN/docs/Web/API/CSSMatrix	/zh-CN/docs/conflicting/Web/API/DOMMatrix
 /zh-CN/docs/Web/API/CSSStyleSheet.insertRule	/zh-CN/docs/Web/API/CSSStyleSheet/insertRule
