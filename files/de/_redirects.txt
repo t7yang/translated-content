@@ -501,6 +501,7 @@
 /de/docs/Web/API/File/Zugriff_auf_Dateien_von_Webapplikationen	/de/docs/Web/API/File/Using_files_from_web_applications
 /de/docs/Web/API/File/fileName	/de/docs/conflicting/Web/API/File/name
 /de/docs/Web/API/File/fileSize	/de/docs/Web/API/Blob/size
+/de/docs/Web/API/FileReader/onload	/de/docs/Web/API/FileReader/load_event
 /de/docs/Web/API/FullscreenOptions	/de/docs/orphaned/Web/API/FullscreenOptions
 /de/docs/Web/API/IndexedDB_API/Basic_Concepts_Behind_IndexedDB	/de/docs/orphaned/Web/API/IndexedDB_API/Basic_Concepts_Behind_IndexedDB
 /de/docs/Web/API/IndexedDB_API/Grundkonzepte_hinter_IndexedDB	/de/docs/orphaned/Web/API/IndexedDB_API/Basic_Concepts_Behind_IndexedDB
