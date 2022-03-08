@@ -1334,6 +1334,8 @@
 /es/docs/Learn/Herramientas_y_pruebas/Lado-del-cliente_JavaScript_frameworks/React_getting_started	/es/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started
 /es/docs/Learn/Herramientas_y_pruebas/Lado-del-cliente_JavaScript_frameworks/Vue_primeros_pasos	/es/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started
 /es/docs/Learn/Herramientas_y_pruebas/Understanding_client-side_tools	/es/docs/Learn/Tools_and_testing/Understanding_client-side_tools
+/es/docs/Learn/JavaScript/Asynchronous/Async_await	/es/docs/Learn/JavaScript/Asynchronous/Promises
+/es/docs/Learn/JavaScript/Asynchronous/Concepts	/es/docs/Learn/JavaScript/Asynchronous/Introducing
 /es/docs/Learn/JavaScript/Building_blocks/Bucle_codigo	/es/docs/Learn/JavaScript/Building_blocks/Looping_code
 /es/docs/Learn/JavaScript/Building_blocks/Construyendo_tu_propia_funcion	/es/docs/Learn/JavaScript/Building_blocks/Build_your_own_function
 /es/docs/Learn/JavaScript/Building_blocks/Eventos	/es/docs/Learn/JavaScript/Building_blocks/Events

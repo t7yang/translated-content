@@ -451,6 +451,9 @@
 /ko/docs/Learn/HTML/Multimedia_and_embedding/ideo_and_audio_content	/ko/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content
 /ko/docs/Learn/How_to_contribute	/ko/docs/orphaned/Learn/How_to_contribute
 /ko/docs/Learn/Infrastructure	/ko/docs/conflicting/Learn/Common_questions
+/ko/docs/Learn/JavaScript/Asynchronous/Async_await	/ko/docs/conflicting/Learn/JavaScript/Asynchronous/Promises
+/ko/docs/Learn/JavaScript/Asynchronous/Concepts	/ko/docs/conflicting/Learn/JavaScript/Asynchronous/Introducing
+/ko/docs/Learn/JavaScript/Asynchronous/Timeouts_and_intervals	/ko/docs/conflicting/Learn/JavaScript/Asynchronous
 /ko/docs/Learn/JavaScript/Building_blocks/조건문	/ko/docs/Learn/JavaScript/Building_blocks/conditionals
 /ko/docs/Learn/JavaScript/Objects/Inheritance	/ko/docs/Learn/JavaScript/Objects/Classes_in_JavaScript
 /ko/docs/Learn/JavaScript/Objects/Object-oriented_JS	/ko/docs/conflicting/Learn/JavaScript/Objects/Classes_in_JavaScript

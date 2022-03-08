@@ -2968,19 +2968,19 @@
       "madmaxdios"
     ]
   },
-  "Learn/JavaScript/Asynchronous/Async_await": {
+  "Learn/JavaScript/Asynchronous/Introducing": {
+    "modified": "2020-11-19T20:30:13.091Z",
+    "contributors": [
+      "AndresSalomon1990",
+      "marcusdesantis"
+    ]
+  },
+  "Learn/JavaScript/Asynchronous/Promises": {
     "modified": "2020-11-12T21:09:30.375Z",
     "contributors": [
       "sargentogato",
       "oscartzgz",
       "SphinxKnight"
-    ]
-  },
-  "Learn/JavaScript/Asynchronous/Concepts": {
-    "modified": "2020-11-19T20:30:13.091Z",
-    "contributors": [
-      "AndresSalomon1990",
-      "marcusdesantis"
     ]
   },
   "Learn/JavaScript/Building_blocks": {
