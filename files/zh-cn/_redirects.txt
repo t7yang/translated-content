@@ -1706,6 +1706,7 @@
 /zh-CN/docs/Web/API/Location.replace	/zh-CN/docs/Web/API/Location/replace
 /zh-CN/docs/Web/API/MSSelection	/zh-CN/docs/orphaned/Web/API/MSSelection
 /zh-CN/docs/Web/API/MediaCapabilitiesInfo	/zh-CN/docs/Web/API/MediaCapabilities/encodingInfo
+/zh-CN/docs/Web/API/MediaDevices/ondevicechange	/zh-CN/docs/conflicting/Web/API/MediaDevices/devicechange_event
 /zh-CN/docs/Web/API/MediaStream.addTrack	/zh-CN/docs/Web/API/MediaStream/addTrack
 /zh-CN/docs/Web/API/MouseEvent/which	/zh-CN/docs/conflicting/Web/API/UIEvent/which
 /zh-CN/docs/Web/API/MouseWheelEvent	/zh-CN/docs/conflicting/Web/API/WheelEvent
@@ -1985,6 +1986,7 @@
 /zh-CN/docs/Web/API/Window/minimize	/zh-CN/docs/conflicting/Web/API/Window
 /zh-CN/docs/Web/API/Window/mozAnimationStartTIme	/zh-CN/docs/Web/API/Animation/startTime
 /zh-CN/docs/Web/API/Window/onappinstalled	/zh-CN/docs/Web/API/Window/appinstalled_event
+/zh-CN/docs/Web/API/Window/onbeforeinstallprompt	/zh-CN/docs/Web/API/Window/beforeinstallprompt_event
 /zh-CN/docs/Web/API/Window/onbeforeunload	/zh-CN/docs/Web/API/WindowEventHandlers/onbeforeunload
 /zh-CN/docs/Web/API/Window/ondevicelight	/zh-CN/docs/orphaned/Web/API/Window/ondevicelight
 /zh-CN/docs/Web/API/Window/ondeviceproximity	/zh-CN/docs/orphaned/Web/API/Window/ondeviceproximity
