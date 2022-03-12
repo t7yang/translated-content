@@ -469,6 +469,7 @@
 /de/docs/Tools/Add-ons	/de/docs/orphaned/Tools/Add-ons
 /de/docs/Tools/Barrierefreiheits_inspektor	/de/docs/Tools/Accessibility_inspector
 /de/docs/Tools/Browser_Werkzeuge	/de/docs/Tools/Browser_Toolbox
+/de/docs/Tools/Index	/de/docs/conflicting/Tools
 /de/docs/Tools/Page_Inspector/How_to/Event_Listener_untersuchen	/de/docs/Tools/Page_Inspector/How_to/Examine_event_listeners
 /de/docs/Tools/Page_Inspector/How_to/Raster_Layout_untersuchen	/de/docs/Tools/Page_Inspector/How_to/Examine_grid_layouts
 /de/docs/Tools/Page_Inspector/How_to/Schriftarten_Bearbeitung	/de/docs/Tools/Page_Inspector/How_to/Edit_fonts
