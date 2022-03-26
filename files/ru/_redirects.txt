@@ -538,6 +538,7 @@
 /ru/docs/Web/API/WindowTimers	/ru/docs/conflicting/Web/API/WindowOrWorkerGlobalScope_e2691f7ad05781a30c5fc5bb3b3f633a
 /ru/docs/Web/API/WindowTimers.setTimeout	/ru/docs/Web/API/setTimeout
 /ru/docs/Web/API/WindowTimers/setTimeout	/ru/docs/Web/API/setTimeout
+/ru/docs/Web/API/Worker/onmessage	/ru/docs/Web/API/Worker/message_event
 /ru/docs/Web/API/XMLHttpRequest/onreadystatechange	/ru/docs/Web/API/XMLHttpRequest/readystatechange_event
 /ru/docs/Web/API/console.timeEnd	/ru/docs/Web/API/Console/timeEnd
 /ru/docs/Web/API/document.activeElement	/ru/docs/Web/API/Document/activeElement
