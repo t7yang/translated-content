@@ -13034,21 +13034,6 @@
       "ziyunfei"
     ]
   },
-  "Web/API/EventListener": {
-    "modified": "2020-10-15T21:39:17.019Z",
-    "contributors": [
-      "RainSlide",
-      "SmelRain",
-      "linmx0130"
-    ]
-  },
-  "Web/API/EventListener/handleEvent": {
-    "modified": "2020-10-15T22:17:52.496Z",
-    "contributors": [
-      "RainSlide",
-      "lnner"
-    ]
-  },
   "Web/API/EventSource": {
     "modified": "2020-10-15T21:21:30.406Z",
     "contributors": [
@@ -17933,20 +17918,6 @@
       "AlexChao",
       "teoli",
       "chyingp"
-    ]
-  },
-  "Web/API/NodeFilter": {
-    "modified": "2020-10-15T21:54:21.294Z",
-    "contributors": [
-      "Carllllo",
-      "RainSlide",
-      "krosylight"
-    ]
-  },
-  "Web/API/NodeFilter/acceptNode": {
-    "modified": "2019-03-23T22:11:41.705Z",
-    "contributors": [
-      "EleanorMao"
     ]
   },
   "Web/API/NodeIterator": {
@@ -37521,6 +37492,20 @@
       "yulifu"
     ]
   },
+  "conflicting/Web/API/Document/createNodeIterator": {
+    "modified": "2019-03-23T22:11:41.705Z",
+    "contributors": [
+      "EleanorMao"
+    ]
+  },
+  "conflicting/Web/API/Document/createNodeIterator_313cb22e529a804ace2f1dbb1e813ada": {
+    "modified": "2020-10-15T21:54:21.294Z",
+    "contributors": [
+      "Carllllo",
+      "RainSlide",
+      "krosylight"
+    ]
+  },
   "conflicting/Web/API/Document/fullscreenchange_event": {
     "modified": "2020-10-15T21:49:09.799Z",
     "contributors": [
@@ -37646,6 +37631,21 @@
       "JohnsonBryant",
       "eeeeeeeason",
       "JiexianYang"
+    ]
+  },
+  "conflicting/Web/API/EventTarget/addEventListener_380cb5f366307beb2c072f74e561ee98": {
+    "modified": "2020-10-15T21:39:17.019Z",
+    "contributors": [
+      "RainSlide",
+      "SmelRain",
+      "linmx0130"
+    ]
+  },
+  "conflicting/Web/API/EventTarget/addEventListener_3f5c5c5258c0571c0b4b6b96e960595e": {
+    "modified": "2020-10-15T22:17:52.496Z",
+    "contributors": [
+      "RainSlide",
+      "lnner"
     ]
   },
   "conflicting/Web/API/EventTarget/dispatchEvent": {

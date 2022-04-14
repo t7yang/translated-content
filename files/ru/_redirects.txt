@@ -415,6 +415,7 @@
 /ru/docs/Web/API/Element/accessKey	/ru/docs/Web/API/HTMLElement/accessKey
 /ru/docs/Web/API/Element/currentStyle	/ru/docs/orphaned/Web/API/Element/currentStyle
 /ru/docs/Web/API/ElementCSSInlineStyle/style	/ru/docs/orphaned/Web/API/ElementCSSInlineStyle/style
+/ru/docs/Web/API/EventListener	/ru/docs/conflicting/Web/API/EventTarget/addEventListener_380cb5f366307beb2c072f74e561ee98
 /ru/docs/Web/API/EventTarget.addEventListener	/ru/docs/Web/API/EventTarget/addEventListener
 /ru/docs/Web/API/EventTarget/attachEvent	/ru/docs/conflicting/Web/API/EventTarget/addEventListener
 /ru/docs/Web/API/EventTarget/detachEvent	/ru/docs/conflicting/Web/API/EventTarget/removeEventListener

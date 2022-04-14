@@ -1600,6 +1600,8 @@
 /zh-CN/docs/Web/API/Event/relatedTarget	/zh-CN/docs/conflicting/Web/API/MouseEvent/relatedTarget
 /zh-CN/docs/Web/API/Event/shiftKey	/zh-CN/docs/conflicting/Web/API/MouseEvent/shiftKey
 /zh-CN/docs/Web/API/Event/禁用时间冒泡	/zh-CN/docs/Web/API/Event/cancelBubble
+/zh-CN/docs/Web/API/EventListener	/zh-CN/docs/conflicting/Web/API/EventTarget/addEventListener_380cb5f366307beb2c072f74e561ee98
+/zh-CN/docs/Web/API/EventListener/handleEvent	/zh-CN/docs/conflicting/Web/API/EventTarget/addEventListener_3f5c5c5258c0571c0b4b6b96e960595e
 /zh-CN/docs/Web/API/EventSource/onerror	/zh-CN/docs/Web/API/EventSource/error_event
 /zh-CN/docs/Web/API/EventSource/onopen	/zh-CN/docs/Web/API/EventSource/open_event
 /zh-CN/docs/Web/API/EventTarget.dispatchEvent	/zh-CN/docs/Web/API/EventTarget/dispatchEvent
@@ -1818,6 +1820,8 @@
 /zh-CN/docs/Web/API/Node/prefix	/zh-CN/docs/conflicting/Web/API/Element/prefix
 /zh-CN/docs/Web/API/Node/rootNode	/zh-CN/docs/conflicting/Web/API/Node/getRootNode
 /zh-CN/docs/Web/API/Node/setUserData	/zh-CN/docs/orphaned/Web/API/Node/setUserData
+/zh-CN/docs/Web/API/NodeFilter	/zh-CN/docs/conflicting/Web/API/Document/createNodeIterator_313cb22e529a804ace2f1dbb1e813ada
+/zh-CN/docs/Web/API/NodeFilter/acceptNode	/zh-CN/docs/conflicting/Web/API/Document/createNodeIterator
 /zh-CN/docs/Web/API/NodeList.item	/zh-CN/docs/Web/API/NodeList/item
 /zh-CN/docs/Web/API/NonDocumentTypeChildNode	/zh-CN/docs/conflicting/Web/API/Element_861159909c20acebf8e506c3bb0e2f7e
 /zh-CN/docs/Web/API/NonDocumentTypeChildNode.nextElementSibling	/zh-CN/docs/Web/API/Element/nextElementSibling

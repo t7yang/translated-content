@@ -498,6 +498,7 @@
 /de/docs/Web/API/ChildNode	/de/docs/orphaned/Web/API/ChildNode
 /de/docs/Web/API/ChildNode/remove	/de/docs/orphaned/Web/API/ChildNode/remove
 /de/docs/Web/API/Element.querySelector	/de/docs/Web/API/Element/querySelector
+/de/docs/Web/API/EventListener	/de/docs/Web/API/EventTarget/addEventListener
 /de/docs/Web/API/File/Typ	/de/docs/Web/API/File/type
 /de/docs/Web/API/File/Zugriff_auf_Dateien_von_Webapplikationen	/de/docs/Web/API/File/Using_files_from_web_applications
 /de/docs/Web/API/File/fileName	/de/docs/conflicting/Web/API/File/name
