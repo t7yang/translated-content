@@ -5466,11 +5466,18 @@
       "Sebastianz"
     ]
   },
-  "Web/CSS/CSS_Color": {
+  "Web/CSS/CSS_Colors": {
     "modified": "2019-03-23T22:45:11.820Z",
     "contributors": [
       "Sebastianz",
       "teoli"
+    ]
+  },
+  "Web/CSS/CSS_Colors/Applying_color": {
+    "modified": "2019-03-18T21:41:16.488Z",
+    "contributors": [
+      "DasRudelndeRudel",
+      "fhwfzfge"
     ]
   },
   "Web/CSS/CSS_Colors/Color_picker_tool": {
@@ -8031,13 +8038,6 @@
       "LexAndreessen",
       "Henry-usa",
       "Timmi"
-    ]
-  },
-  "Web/HTML/Applying_color": {
-    "modified": "2019-03-18T21:41:16.488Z",
-    "contributors": [
-      "DasRudelndeRudel",
-      "fhwfzfge"
     ]
   },
   "Web/HTML/Attributes": {

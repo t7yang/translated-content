@@ -601,7 +601,7 @@
 /de/docs/Web/CSS/CSS_Boxmodell/Box-shadow_generator	/de/docs/Web/CSS/CSS_Backgrounds_and_Borders/Box-shadow_generator
 /de/docs/Web/CSS/CSS_Boxmodell/Einführung_in_das_CSS_Boxmodell	/de/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model
 /de/docs/Web/CSS/CSS_Boxmodell/Zusammenfallen_von_Außenabständen_meistern	/de/docs/Web/CSS/CSS_Box_Model/Mastering_margin_collapsing
-/de/docs/Web/CSS/CSS_Colors	/de/docs/Web/CSS/CSS_Color
+/de/docs/Web/CSS/CSS_Color	/de/docs/Web/CSS/CSS_Colors
 /de/docs/Web/CSS/CSS_Colors/farbauswahl_werkzeug	/de/docs/Web/CSS/CSS_Colors/Color_picker_tool
 /de/docs/Web/CSS/CSS_Compositing_and_Blending	/de/docs/Web/CSS/Compositing_and_Blending
 /de/docs/Web/CSS/CSS_Flexible_Box_Layout/Flex_Elemente_Sortieren	/de/docs/Web/CSS/CSS_Flexible_Box_Layout/Ordering_Flex_Items
@@ -712,6 +712,7 @@
 /de/docs/Web/Guide/HTML/Inhaltskategorien	/de/docs/Web/Guide/HTML/Content_categories
 /de/docs/Web/Guide/HTML/Sections_and_Outlines_of_an_HTML5_document	/de/docs/orphaned/Web/Guide/HTML/Using_HTML_sections_and_outlines
 /de/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines	/de/docs/orphaned/Web/Guide/HTML/Using_HTML_sections_and_outlines
+/de/docs/Web/HTML/Applying_color	/de/docs/Web/CSS/CSS_Colors/Applying_color
 /de/docs/Web/HTML/Block-level_elemente	/de/docs/Web/HTML/Block-level_elements
 /de/docs/Web/HTML/Canvas	/de/docs/Web/API/Canvas_API
 /de/docs/Web/HTML/Element/h1	/de/docs/Web/HTML/Element/Heading_Elements
