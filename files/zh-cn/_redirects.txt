@@ -3646,6 +3646,7 @@
 /zh-CN/docs/Web/Reference/API	/zh-CN/docs/orphaned/Web/Reference/API
 /zh-CN/docs/Web/SVG/Attribute/文本锚点	/zh-CN/docs/Web/SVG/Attribute/text-anchor
 /zh-CN/docs/Web/SVG/Attribute/样式	/zh-CN/docs/Web/SVG/Attribute/Styling
+/zh-CN/docs/Web/SVG/Element/animateColor	/zh-CN/docs/conflicting/Web/SVG/Element/animate
 /zh-CN/docs/Web/SVG/Element/color-profile	/zh-CN/docs/orphaned/Web/SVG/Element/color-profile
 /zh-CN/docs/Web/SVG/Element/圆	/zh-CN/docs/Web/SVG/Element/circle
 /zh-CN/docs/Web/SVG/Element/多边形	/zh-CN/docs/Web/SVG/Element/polygon

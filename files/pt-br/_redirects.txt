@@ -1426,6 +1426,7 @@
 /pt-BR/docs/Web/Progressive_web_apps/Introdução	/pt-BR/docs/Web/Progressive_web_apps/Introduction
 /pt-BR/docs/Web/Reference	/pt-BR/docs/orphaned/Web/Reference
 /pt-BR/docs/Web/Reference/API	/pt-BR/docs/orphaned/Web/Reference/API
+/pt-BR/docs/Web/SVG/Element/animateColor	/pt-BR/docs/conflicting/Web/SVG/Element/animate
 /pt-BR/docs/Web/SVG/Element/color-profile	/pt-BR/docs/orphaned/Web/SVG/Element/color-profile
 /pt-BR/docs/Web/SVG/Element/texto	/pt-BR/docs/Web/SVG/Element/text
 /pt-BR/docs/Web/SVG/Intensivo_de_Namespaces	/pt-BR/docs/Web/SVG/Namespaces_Crash_Course
