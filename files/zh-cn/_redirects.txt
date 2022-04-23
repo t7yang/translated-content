@@ -535,7 +535,7 @@
 /zh-CN/docs/DOM/window.navigator.userAgent	/zh-CN/docs/orphaned/Web/API/NavigatorID/userAgent
 /zh-CN/docs/DOM/window.navigator.vendor	/zh-CN/docs/Web/API/Navigator/vendor
 /zh-CN/docs/DOM/window.navigator.vendorSub	/zh-CN/docs/Web/API/Navigator/vendorSub
-/zh-CN/docs/DOM/window.onbeforeunload	/zh-CN/docs/Web/API/WindowEventHandlers/onbeforeunload
+/zh-CN/docs/DOM/window.onbeforeunload	/zh-CN/docs/conflicting/Web/API/Window/beforeunload_event
 /zh-CN/docs/DOM/window.oncontextmenu	/zh-CN/docs/Web/API/GlobalEventHandlers/oncontextmenu
 /zh-CN/docs/DOM/window.onhashchange	/zh-CN/docs/conflicting/Web/API/Window/hashchange_event
 /zh-CN/docs/DOM/window.oninput	/zh-CN/docs/Web/API/GlobalEventHandlers/oninput
@@ -545,7 +545,7 @@
 /zh-CN/docs/DOM/window.onscroll	/zh-CN/docs/conflicting/Web/API/GlobalEventHandlers/onscroll
 /zh-CN/docs/DOM/window.onselect	/zh-CN/docs/Web/API/GlobalEventHandlers/onselect
 /zh-CN/docs/DOM/window.onsubmit	/zh-CN/docs/Web/API/GlobalEventHandlers/onsubmit
-/zh-CN/docs/DOM/window.onunload	/zh-CN/docs/Web/API/WindowEventHandlers/onunload
+/zh-CN/docs/DOM/window.onunload	/zh-CN/docs/conflicting/Web/API/Window/unload_event
 /zh-CN/docs/DOM/window.open	/zh-CN/docs/Web/API/Window/open
 /zh-CN/docs/DOM/window.openDialog	/zh-CN/docs/Web/API/Window/openDialog
 /zh-CN/docs/DOM/window.opener	/zh-CN/docs/Web/API/Window/opener
@@ -593,7 +593,7 @@
 /zh-CN/docs/DOM:window.open	/zh-CN/docs/Web/API/Window/open
 /zh-CN/docs/DOM:window.openDialog	/zh-CN/docs/Web/API/Window/openDialog
 /zh-CN/docs/Detecting_device_orientation	/zh-CN/docs/orphaned/Web/API/Detecting_device_orientation
-/zh-CN/docs/Document_Object_Model_(DOM)/window.onbeforeunload	/zh-CN/docs/Web/API/WindowEventHandlers/onbeforeunload
+/zh-CN/docs/Document_Object_Model_(DOM)/window.onbeforeunload	/zh-CN/docs/conflicting/Web/API/Window/beforeunload_event
 /zh-CN/docs/Download_Mozilla_Source_Code	/en-US/docs/Mozilla/Developer_guide/Source_Code/Downloading_Source_Archives
 /zh-CN/docs/DragDrop/拖拽	/zh-CN/docs/Drag_and_Drop
 /zh-CN/docs/Enumerability_and_ownership_of_properties	/zh-CN/docs/orphaned/Web/JavaScript/Enumerability_and_ownership_of_properties
@@ -1525,6 +1525,8 @@
 /zh-CN/docs/Web/API/Document/onbeforescriptexecute	/zh-CN/docs/Web/API/Document/beforescriptexecute_event
 /zh-CN/docs/Web/API/Document/onfullscreenchange	/zh-CN/docs/conflicting/Web/API/Document/fullscreenchange_event
 /zh-CN/docs/Web/API/Document/onfullscreenerror	/zh-CN/docs/Web/API/Document/fullscreenerror_event
+/zh-CN/docs/Web/API/Document/onoffline	/zh-CN/docs/conflicting/Web/API/Window/offline_event
+/zh-CN/docs/Web/API/Document/ononline	/zh-CN/docs/conflicting/Web/API/Window/online_event
 /zh-CN/docs/Web/API/Document/onreadystatechange	/en-US/docs/Web/API/Document/readystatechange_event
 /zh-CN/docs/Web/API/Document/onvisibilitychange	/zh-CN/docs/conflicting/Web/API/Document/visibilitychange_event
 /zh-CN/docs/Web/API/Document/rouchmove_event	/zh-CN/docs/Web/API/Document/touchmove_event
@@ -1967,12 +1969,12 @@
 /zh-CN/docs/Web/API/Window.mozAnimationStartTime	/zh-CN/docs/Web/API/Animation/startTime
 /zh-CN/docs/Web/API/Window.name	/zh-CN/docs/Web/API/Window/name
 /zh-CN/docs/Web/API/Window.navigator	/zh-CN/docs/Web/API/Window/navigator
-/zh-CN/docs/Web/API/Window.onbeforeunload	/zh-CN/docs/Web/API/WindowEventHandlers/onbeforeunload
+/zh-CN/docs/Web/API/Window.onbeforeunload	/zh-CN/docs/conflicting/Web/API/Window/beforeunload_event
 /zh-CN/docs/Web/API/Window.onhashchange	/zh-CN/docs/conflicting/Web/API/Window/hashchange_event
 /zh-CN/docs/Web/API/Window.onmouseup	/zh-CN/docs/conflicting/Web/API/GlobalEventHandlers/onmouseup
 /zh-CN/docs/Web/API/Window.onpopstate	/zh-CN/docs/conflicting/Web/API/Window/popstate_event
 /zh-CN/docs/Web/API/Window.onresize	/zh-CN/docs/Web/API/GlobalEventHandlers/onresize
-/zh-CN/docs/Web/API/Window.onunload	/zh-CN/docs/Web/API/WindowEventHandlers/onunload
+/zh-CN/docs/Web/API/Window.onunload	/zh-CN/docs/conflicting/Web/API/Window/unload_event
 /zh-CN/docs/Web/API/Window.openDialog	/zh-CN/docs/Web/API/Window/openDialog
 /zh-CN/docs/Web/API/Window.opener	/zh-CN/docs/Web/API/Window/opener
 /zh-CN/docs/Web/API/Window.outerHeight	/zh-CN/docs/Web/API/Window/outerHeight
@@ -2005,7 +2007,7 @@
 /zh-CN/docs/Web/API/Window/mozAnimationStartTIme	/zh-CN/docs/Web/API/Animation/startTime
 /zh-CN/docs/Web/API/Window/onappinstalled	/zh-CN/docs/Web/API/Window/appinstalled_event
 /zh-CN/docs/Web/API/Window/onbeforeinstallprompt	/zh-CN/docs/Web/API/Window/beforeinstallprompt_event
-/zh-CN/docs/Web/API/Window/onbeforeunload	/zh-CN/docs/Web/API/WindowEventHandlers/onbeforeunload
+/zh-CN/docs/Web/API/Window/onbeforeunload	/zh-CN/docs/conflicting/Web/API/Window/beforeunload_event
 /zh-CN/docs/Web/API/Window/ondevicelight	/zh-CN/docs/orphaned/Web/API/Window/ondevicelight
 /zh-CN/docs/Web/API/Window/ondevicemotion	/zh-CN/docs/Web/API/Window/devicemotion_event
 /zh-CN/docs/Web/API/Window/ondeviceorientation	/zh-CN/docs/conflicting/Web/API/Window/deviceorientation_event
@@ -2018,7 +2020,7 @@
 /zh-CN/docs/Web/API/Window/onpopstate	/zh-CN/docs/conflicting/Web/API/Window/popstate_event
 /zh-CN/docs/Web/API/Window/onresize	/zh-CN/docs/Web/API/GlobalEventHandlers/onresize
 /zh-CN/docs/Web/API/Window/onscroll	/zh-CN/docs/conflicting/Web/API/GlobalEventHandlers/onscroll
-/zh-CN/docs/Web/API/Window/onunload	/zh-CN/docs/Web/API/WindowEventHandlers/onunload
+/zh-CN/docs/Web/API/Window/onunload	/zh-CN/docs/conflicting/Web/API/Window/unload_event
 /zh-CN/docs/Web/API/Window/onuserproximity	/zh-CN/docs/orphaned/Web/API/Window/onuserproximity
 /zh-CN/docs/Web/API/Window/performance	/zh-CN/docs/Web/API/performance_property
 /zh-CN/docs/Web/API/Window/restore	/zh-CN/docs/conflicting/Web/API/Window/moveTo
@@ -2030,12 +2032,14 @@
 /zh-CN/docs/Web/API/WindowBase64/btoa	/zh-CN/docs/Web/API/btoa
 /zh-CN/docs/Web/API/WindowEventHandlers/onafterprint	/zh-CN/docs/conflicting/Web/API/Window/afterprint_event
 /zh-CN/docs/Web/API/WindowEventHandlers/onbeforeprint	/zh-CN/docs/conflicting/Web/API/Window/beforeprint_event
+/zh-CN/docs/Web/API/WindowEventHandlers/onbeforeunload	/zh-CN/docs/conflicting/Web/API/Window/beforeunload_event
 /zh-CN/docs/Web/API/WindowEventHandlers/onhashchange	/zh-CN/docs/conflicting/Web/API/Window/hashchange_event
 /zh-CN/docs/Web/API/WindowEventHandlers/onlanguagechange	/zh-CN/docs/conflicting/Web/API/Window/languagechange_event
 /zh-CN/docs/Web/API/WindowEventHandlers/onmessage	/zh-CN/docs/Web/API/Window/message_event
 /zh-CN/docs/Web/API/WindowEventHandlers/onmessageerror	/zh-CN/docs/Web/API/Window/messageerror_event
 /zh-CN/docs/Web/API/WindowEventHandlers/onpopstate	/zh-CN/docs/conflicting/Web/API/Window/popstate_event
 /zh-CN/docs/Web/API/WindowEventHandlers/onstorage	/zh-CN/docs/conflicting/Web/API/Window/storage_event
+/zh-CN/docs/Web/API/WindowEventHandlers/onunload	/zh-CN/docs/conflicting/Web/API/Window/unload_event
 /zh-CN/docs/Web/API/WindowOrWorkerGlobalScope/atob	/zh-CN/docs/Web/API/atob
 /zh-CN/docs/Web/API/WindowOrWorkerGlobalScope/btoa	/zh-CN/docs/Web/API/btoa
 /zh-CN/docs/Web/API/WindowOrWorkerGlobalScope/caches	/zh-CN/docs/Web/API/caches

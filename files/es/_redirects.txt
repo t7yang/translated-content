@@ -372,7 +372,7 @@
 /es/docs/DOM/window.navigator.registerProtocolHandler	/es/docs/Web/API/Navigator/registerProtocolHandler
 /es/docs/DOM/window.navigator.vibrate	/es/docs/Web/API/Navigator/vibrate
 /es/docs/DOM/window.onload	/es/docs/Web/API/GlobalEventHandlers/onload
-/es/docs/DOM/window.onunload	/es/docs/Web/API/WindowEventHandlers/onunload
+/es/docs/DOM/window.onunload	/es/docs/Web/API/Window/unload_event
 /es/docs/DOM/window.requestAnimationFrame	/es/docs/Web/API/Window/requestAnimationFrame
 /es/docs/DOM:Almacenamiento	/es/docs/conflicting/Web/API/Web_Storage_API
 /es/docs/DOM:Selection:addRange	/es/docs/Web/API/Selection/addRange
@@ -1832,7 +1832,7 @@
 /es/docs/Web/API/Geolocation.clearWatch	/es/docs/Web/API/Geolocation/clearWatch
 /es/docs/Web/API/Geolocation.getCurrentPosition	/es/docs/Web/API/Geolocation/getCurrentPosition
 /es/docs/Web/API/Geolocation.watchPosition	/es/docs/Web/API/Geolocation/watchPosition
-/es/docs/Web/API/GlobalEventHandlers/onunload	/es/docs/Web/API/WindowEventHandlers/onunload
+/es/docs/Web/API/GlobalEventHandlers/onunload	/es/docs/Web/API/Window/unload_event
 /es/docs/Web/API/HTMLElement/dataset	/es/docs/orphaned/Web/API/HTMLOrForeignElement/dataset
 /es/docs/Web/API/HTMLElement/focus	/es/docs/orphaned/Web/API/HTMLOrForeignElement/focus
 /es/docs/Web/API/HTMLElement/invalid_event	/es/docs/Web/API/HTMLInputElement/invalid_event
@@ -1889,7 +1889,7 @@
 /es/docs/Web/API/Web_Speech_API/Uso_de_la_Web_Speech_API	/es/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API
 /es/docs/Web/API/Window.clearTimeout	/es/docs/Web/API/clearTimeout
 /es/docs/Web/API/Window.navigator	/es/docs/Web/API/Window/navigator
-/es/docs/Web/API/Window.onbeforeunload	/es/docs/Web/API/WindowEventHandlers/onbeforeunload
+/es/docs/Web/API/Window.onbeforeunload	/es/docs/conflicting/Web/API/Window/beforeunload_event
 /es/docs/Web/API/Window.setTimeout	/es/docs/Web/API/setTimeout
 /es/docs/Web/API/Window/URL	/es/docs/conflicting/Web/API/URL
 /es/docs/Web/API/Window/crypto	/es/docs/Web/API/crypto_property
@@ -1897,8 +1897,10 @@
 /es/docs/Web/API/WindowBase64.atob	/es/docs/Web/API/atob
 /es/docs/Web/API/WindowBase64/Base64_codificando_y_decodificando	/es/docs/Glossary/Base64
 /es/docs/Web/API/WindowBase64/atob	/es/docs/Web/API/atob
+/es/docs/Web/API/WindowEventHandlers/onbeforeunload	/es/docs/conflicting/Web/API/Window/beforeunload_event
 /es/docs/Web/API/WindowEventHandlers/onhashchange	/es/docs/conflicting/Web/API/Window/hashchange_event
 /es/docs/Web/API/WindowEventHandlers/onpopstate	/es/docs/Web/API/Window/popstate_event
+/es/docs/Web/API/WindowEventHandlers/onunload	/es/docs/Web/API/Window/unload_event
 /es/docs/Web/API/WindowOrWorkerGlobalScope/atob	/es/docs/Web/API/atob
 /es/docs/Web/API/WindowOrWorkerGlobalScope/caches	/es/docs/Web/API/caches
 /es/docs/Web/API/WindowOrWorkerGlobalScope/clearInterval	/es/docs/Web/API/clearInterval

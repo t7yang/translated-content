@@ -9455,26 +9455,18 @@
       "UshioSan"
     ]
   },
-  "Web/API/WindowEventHandlers": {
-    "modified": "2019-03-23T23:01:29.892Z",
-    "contributors": [
-      "fscholz"
-    ]
-  },
-  "Web/API/WindowEventHandlers/onbeforeunload": {
-    "modified": "2019-03-23T23:22:06.132Z",
-    "contributors": [
-      "fscholz",
-      "AshfaqHossain",
-      "jota1410"
-    ]
-  },
-  "Web/API/WindowEventHandlers/onunload": {
+  "Web/API/Window/unload_event": {
     "modified": "2019-03-23T23:39:28.498Z",
     "contributors": [
       "fscholz",
       "khalid32",
       "Sheppy"
+    ]
+  },
+  "Web/API/WindowEventHandlers": {
+    "modified": "2019-03-23T23:01:29.892Z",
+    "contributors": [
+      "fscholz"
     ]
   },
   "Web/API/WindowOrWorkerGlobalScope": {
@@ -17668,6 +17660,14 @@
       "Mgjbot",
       "Superruzafa",
       "Nukeador"
+    ]
+  },
+  "conflicting/Web/API/Window/beforeunload_event": {
+    "modified": "2019-03-23T23:22:06.132Z",
+    "contributors": [
+      "fscholz",
+      "AshfaqHossain",
+      "jota1410"
     ]
   },
   "conflicting/Web/API/Window/hashchange_event": {
