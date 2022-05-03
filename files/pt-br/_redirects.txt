@@ -124,8 +124,8 @@
 /pt-BR/docs/Eventos_on-line_off-line	/pt-BR/docs/orphaned/Web/API/NavigatorOnLine/Online_and_offline_events
 /pt-BR/docs/Games/Introduction_to_HTML5_Game_Gevelopment_(summary)	/pt-BR/docs/Games/Introduction_to_HTML5_Game_Development
 /pt-BR/docs/Glossario	/pt-BR/docs/Glossary
-/pt-BR/docs/Glossario/404	/pt-BR/docs/Glossary/404
-/pt-BR/docs/Glossario/502	/pt-BR/docs/Glossary/502
+/pt-BR/docs/Glossario/404	/pt-BR/docs/conflicting/Web/HTTP/Status/404
+/pt-BR/docs/Glossario/502	/pt-BR/docs/conflicting/Web/HTTP/Status/502
 /pt-BR/docs/Glossario/AJAX	/pt-BR/docs/Glossary/AJAX
 /pt-BR/docs/Glossario/API	/pt-BR/docs/Glossary/API
 /pt-BR/docs/Glossario/ASCII	/pt-BR/docs/Glossary/ASCII
@@ -285,6 +285,8 @@
 /pt-BR/docs/Glossario/topico_de_alinhamento	/pt-BR/docs/Glossary/Alignment_Subject
 /pt-BR/docs/Glossario/undefined	/pt-BR/docs/Glossary/undefined
 /pt-BR/docs/Glossario/webp	/pt-BR/docs/Glossary/webp
+/pt-BR/docs/Glossary/404	/pt-BR/docs/conflicting/Web/HTTP/Status/404
+/pt-BR/docs/Glossary/502	/pt-BR/docs/conflicting/Web/HTTP/Status/502
 /pt-BR/docs/HTML	/pt-BR/docs/Web/HTML
 /pt-BR/docs/HTML/Attributes	/pt-BR/docs/Web/HTML/Attributes
 /pt-BR/docs/HTML/Canvas	/pt-BR/docs/Web/API/Canvas_API

@@ -555,6 +555,8 @@
 /es/docs/Garantía_de_Calidad	/es/docs/QA
 /es/docs/Generación_de_GUIDs	/es/docs/orphaned/Generación_de_GUIDs
 /es/docs/Gestión_del_foco_en_HTML	/es/docs/Web/API/Document/hasFocus
+/es/docs/Glossary/404	/es/docs/conflicting/Web/HTTP/Status/404
+/es/docs/Glossary/502	/es/docs/conflicting/Web/HTTP/Status/502
 /es/docs/Glossary/AOM	/es/docs/Glossary/Accessibility_tree
 /es/docs/Glossary/Algoritmo	/es/docs/Glossary/Algorithm
 /es/docs/Glossary/Argumento	/es/docs/Glossary/Argument
