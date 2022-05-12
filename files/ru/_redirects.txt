@@ -451,6 +451,7 @@
 /ru/docs/Web/API/HTMLOrForeignElement/nonce	/ru/docs/orphaned/Web/API/HTMLOrForeignElement/nonce
 /ru/docs/Web/API/HTMLOrForeignElement/tabIndex	/ru/docs/orphaned/Web/API/HTMLOrForeignElement/tabIndex
 /ru/docs/Web/API/IndexedDB_API/Basic_Concepts_Behind_IndexedDB	/ru/docs/orphaned/Web/API/IndexedDB_API/Basic_Concepts_Behind_IndexedDB
+/ru/docs/Web/API/KeyboardEvent/key/Key_Values	/ru/docs/Web/API/UI_Events/Keyboard_event_key_values
 /ru/docs/Web/API/KeyboardEvent/which	/ru/docs/Web/API/UIEvent/which
 /ru/docs/Web/API/LocalMediaStream	/ru/docs/orphaned/Web/API/LocalMediaStream
 /ru/docs/Web/API/MediaRecorder/ondataavailable	/ru/docs/Web/API/MediaRecorder/dataavailable_event
